@@ -1,0 +1,42 @@
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+}
+.navbar-toggler{
+    filter: invert(100%);
+}
+
+.headerStyle{
+    background-image: url(./src/img_header.jpg);
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    text-shadow: 1px 1px 2px black;
+
+}
+
+.card-img-top{
+    min-height: 240px;
+}
+
+.div-bg{
+    background-image: url(./src/pexels.jpg);
+}
+.footer{
+    bottom: 0px;
+    
+}
+
+.send{
+    padding: 0 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.about{
+    text-shadow: 1px 1px 2px black;
+    color: rgb(240, 189, 21);
+}
